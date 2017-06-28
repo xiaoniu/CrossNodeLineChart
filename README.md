@@ -2,8 +2,11 @@
 
 > 基于MPAndroidChart开发，使用前项目要导入[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
-#使用方法
-在布局文件添加控件
+# 使用方法
+
+## 1.导入CustomLineChart.java和BgColor.java文件
+
+## 2.在布局文件添加控件
  ```xml 
     <com.example.ast.customchart.CustomLineChart
         android:id="@+id/test_lineChart"
@@ -11,7 +14,7 @@
         android:layout_height="360dp"
         android:padding="5dp" />
 ```
-配置图表
+## 3.配置图表
 
 ```java
         //相关设置
