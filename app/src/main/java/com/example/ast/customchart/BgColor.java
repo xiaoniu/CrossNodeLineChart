@@ -10,8 +10,8 @@ package com.example.ast.customchart;
 public class BgColor {
 
     public BgColor( float start, float stop,int color) {
-        this.start = start;
-        this.stop = stop;
+        this.start = stop;
+        this.stop = start;
         this.color = color;
     }
 
