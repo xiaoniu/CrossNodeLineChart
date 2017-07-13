@@ -54,3 +54,6 @@ mChart.setBgColor(getBg());
         return bgList;
     }
 ```
+
+# 更详细的介绍博客
+[基于MPAndroidChart的自定义LineChart（一）----节点绘制叉号+分段绘制背景](http://www.jianshu.com/p/a8ced43775a1)
