@@ -1,6 +1,9 @@
 # 基于MPAndroidChart自定义的LineChart，添加了在节点绘制叉号和分段绘制背景的功能
+
 演示图片：
+
 ![](http://upload-images.jianshu.io/upload_images/1849253-6a540de8e118c693.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 节点的细节图片：
 
 ![](http://upload-images.jianshu.io/upload_images/1849253-dbf288161baffcee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
