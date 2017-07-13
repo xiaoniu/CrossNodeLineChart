@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by JiaJun on 2017/4/10.
+ * Created by xiaoniu on 2017/4/10.
  * 自定义的LineChart，添加了在节点绘制叉号和绘制背景的功能
  */
 

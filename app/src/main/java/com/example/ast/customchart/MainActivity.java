@@ -99,10 +99,15 @@ public class MainActivity extends AppCompatActivity {
         mChart.setData(data);
     }
 
+    /**
+     * 分段背景设置
+     * @return 每条背景的组合
+     */
     private ArrayList<BgColor> getBg() {
         ArrayList<BgColor> bgList = new ArrayList<>();
 
-        bgList.add(new BgColor(20, 40, 0xFF00FF00));//绿色
+        bgList.add(new BgColor(10, 20, Color.YELLOW));//参数信息：纵坐标从0到20设置颜色为黄色
+        bgList.add(new BgColor(20, 40, 0xFF00FF00));//支持16进制颜色
         bgList.add(new BgColor(40, 70, Color.BLUE));
         bgList.add(new BgColor(70, 80, Color.RED));
         return bgList;
